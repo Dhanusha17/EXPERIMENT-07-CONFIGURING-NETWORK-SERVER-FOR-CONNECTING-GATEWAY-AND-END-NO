@@ -1,5 +1,6 @@
 ### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
- 
+## NAME: DHANUSHA K
+## REG NO: 212223040034
 ## Aim: 
 To  configure the Network server and end device for transferring data on the network
 ## Components required: 
@@ -56,6 +57,41 @@ To set APP Key
 
 
 ## OUTPUT 
+<img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/18e83020-27b6-40f9-8c7a-8d6c5002f267" />
+
+<img width="1919" height="972" alt="Screenshot 2025-12-01 090520" src="https://github.com/user-attachments/assets/87211660-0dc6-4bb3-978d-073901ff3719" />
+
+<img width="1919" height="1078" alt="Screenshot 2025-12-01 090551" src="https://github.com/user-attachments/assets/e807cb9f-1215-415f-9604-301391736ea7" />
+
+<img width="1919" height="970" alt="Screenshot 2025-12-01 090627" src="https://github.com/user-attachments/assets/47f45ef7-d342-4e3d-b1da-3a0165bfcd36" />
+
+<img width="1919" height="1072" alt="Screenshot 2025-12-01 090641" src="https://github.com/user-attachments/assets/fa2f72cf-b149-4f4a-9953-bf74367000bc" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d14fb0a7-a005-4cac-a66a-27a45dbf3c1a" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/90f931e5-2199-4906-bf23-3d7682ab05ed" />
+
+<img width="1919" height="1070" alt="image" src="https://github.com/user-attachments/assets/e395d9b1-ce0d-4838-ab00-42e02d5a6838" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/73145a9c-e115-43e2-83b6-58fe451dde72" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/db9777d8-f356-4702-8619-3890122d46cc" />
+
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/45626f64-3bd8-4d8d-a719-c8f0b16fc378" />
+
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/dc4d49a6-4d15-42e2-b342-16b689d73c7a" />
+
+
+<img width="1919" height="1076" alt="image" src="https://github.com/user-attachments/assets/3d057ac0-19c2-4534-a97e-764ff597ff25" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/14ee7d56-9010-46f9-8b50-a3e749f29626" />
+
+
+
+
+
+
 
 
 ## Result: 
